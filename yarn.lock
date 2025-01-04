@@ -9,6 +9,11 @@
   dependencies:
     tslib "^2.4.0"
 
+"@first-apps/shared@^1.1.6":
+  version "1.1.6"
+  resolved "https://registry.yarnpkg.com/@first-apps/shared/-/shared-1.1.6.tgz#3bc018435c096f662565f6e0bd6d7028aace683d"
+  integrity sha512-TWSd3C64MY6OZK6NHD400okNakGZhvavBhwHkoJ74hgnGFewLJjO5j5Y3jTPziwY0NKkU6bcnrQvHGpNPHZ26w==
+
 "@img/sharp-darwin-arm64@0.33.5":
   version "0.33.5"
   resolved "https://registry.yarnpkg.com/@img/sharp-darwin-arm64/-/sharp-darwin-arm64-0.33.5.tgz#ef5b5a07862805f1e8145a377c8ba6e98813ca08"
