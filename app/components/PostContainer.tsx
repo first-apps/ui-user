@@ -13,7 +13,7 @@ export const PostContainer = ({ data, children }) => {
   return (
     <div>
       <h2>{children}</h2>
-      <Button onClick={handleClick}>Print</Button>
+      <Button onClick={handleClick} children="Print"></Button>
     </div>
   );
 };
